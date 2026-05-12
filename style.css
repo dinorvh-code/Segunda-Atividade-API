@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1920px;
+    height: 650px;
+    font-family: 'Segoe UI';
+}
+
+.titulo{
+    font-size: 40px;
+}
+
+.campo{
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.btn{
+    height: 47.5px;
+    width: 75px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
